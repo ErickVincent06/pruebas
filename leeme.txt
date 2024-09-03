@@ -1,1 +1,2 @@
 anotaciones sobre el programa a crear
+Checando funcionalidades en otra rama
